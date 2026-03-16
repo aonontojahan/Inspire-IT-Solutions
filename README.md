@@ -22,7 +22,7 @@ The network topology consists of:
 - **Core Router**: Connects the internal network to external ISPs.
 - **Distribution Switches**: Manage VLAN segmentation and routing between departments.
 - **Access Switches**: Connect end devices (PCs, printers, VoIP phones).
-- **Servers**: Provide DHCP, DNS, File Sharing, and Web Hosting services..
+- **Servers**: Provide DHCP, DNS, File Sharing, and Web Hosting services...
 
 Below is the conceptual topology diagram:
 
